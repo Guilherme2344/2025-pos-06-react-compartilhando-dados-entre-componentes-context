@@ -4,7 +4,7 @@ import type React from "react";
 
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { TarefaInterface } from "@/data";
+import { TarefaInterface } from "@/src/data";
 import Cabecalho from "@/componentes/Cabecalho";
 import ModalTarefa from "@/componentes/ModalTarefa";
 
